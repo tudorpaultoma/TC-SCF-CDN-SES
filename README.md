@@ -7,8 +7,11 @@ The script can run under a sub-user account which only has permissions to work w
 More details:
 
 SCF: https://intl.cloud.tencent.com/document/product/583
+
 CDN: https://intl.cloud.tencent.com/document/product/228
+
 SES: https://intl.cloud.tencent.com/document/product/1084
+
 Tencent Cloud SDK for NodeJS: https://github.com/TencentCloud/tencentcloud-sdk-nodejs-intl-en
 
 TBD:
