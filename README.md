@@ -11,4 +11,8 @@ CDN: https://intl.cloud.tencent.com/document/product/228
 SES: https://intl.cloud.tencent.com/document/product/1084
 Tencent Cloud SDK for NodeJS: https://github.com/TencentCloud/tencentcloud-sdk-nodejs-intl-en
 
+TBD:
+ - add parameter file
+ - error handling
+
 Author: Tudor Toma
