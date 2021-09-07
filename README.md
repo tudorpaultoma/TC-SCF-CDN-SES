@@ -14,5 +14,7 @@ Tencent Cloud SDK for NodeJS: https://github.com/TencentCloud/tencentcloud-sdk-n
 TBD:
  - add parameter file
  - error handling
+ - add comments
+ - clean code
 
 Author: Tudor Toma
